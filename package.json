@@ -2,7 +2,7 @@
   "name": "conference",
   "version": "0.1.0",
   "private": false,
-  "homepage": "http://www.iciriac.com",
+  "homepage": "http://www.icamece.com",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

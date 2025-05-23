@@ -10,7 +10,7 @@ const Publication = () => {
             <Heading />
             <Title title="Publication"/>
             <p><center>
-              ICIRIAC 2022 Proceeding Link:
+              ICAMECE 2025 Proceeding Link:
             <a className="underline text-sky-500 " href="https://pubs.aip.org/aip/acp/issue/2914/1"> https://pubs.aip.org/aip/acp/issue/2914/1</a>
             </center>
               </p>
