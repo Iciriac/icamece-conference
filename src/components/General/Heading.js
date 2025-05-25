@@ -46,7 +46,7 @@ function Heading() {
                             <img className="h-[3rem] ml-[0] w-[3rem]" src={uniLogo} alt="logo" />
                         </div> */}
                     </div>
-                    <p className="text-l font-medium tracking-[2px]">3<sup>rd</sup> edition of</p>
+                    {/* <p className="text-l font-medium tracking-[2px]">3<sup>rd</sup> edition of</p> */}
                     <h1 className="italic text-[1.4rem] font-semibold w-[50rem] tracking-[1px] mb-[.5rem]">International Conference on Advances in Mechanical, Electrical and Computational Engineering (ICAMECE 2025)</h1>
                     <p className="font-medium tracking-[2px] ">12<sup>th</sup> Dec 2025</p>
                 </div>

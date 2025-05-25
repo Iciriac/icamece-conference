@@ -28,15 +28,15 @@ const Submission = () => {
 
             <hr className="border-[1px] opacity-40 border-[#9e9e9e] my-[1.5rem]"></hr>
 
-            <p>
+            {/* <p>
                 <b><span>Manuscript Template</span></b>
                 <p className=" mb-[1rem]">AIP conference templates contain guidance text for composing and formatting conference papers. Please ensure that all guidance text is removed from your conference paper prior to submission to the conference.</p>
                 <a href="https://aip.scitation.org/apc/authors/preppapers" className="underline text-sky-500" target="_blank" rel="noreferrer">AIP Template</a>
-            </p>
+            </p> */}
 
-            <div className="py-[2rem] flex justify-center">
+            {/* <div className="py-[2rem] flex justify-center">
                 <a rel="noreferrer" className="px-[2rem] py-[1rem] bg-[#206dac] rounded-xl text-white" href="https://docs.google.com/forms/d/e/1FAIpQLSdvGMZ7ia_QrVDq1xZ0ZcD_ObavyRKRhK7bOPicINayOmXspA/viewform" target="_blank">Submit Manuscript</a>
-            </div>
+            </div> */}
 
           </div>
           
