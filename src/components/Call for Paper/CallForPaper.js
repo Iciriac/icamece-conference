@@ -37,7 +37,7 @@ function CallForPaper() {
             </div>
 
             <div>
-                <StripTitle title="Computational and Data-Driven Technologies" />
+                <StripTitle title="Computational Technologies" />
                 <div className="flex justify-center mb-[3rem]">
                     <ul className="grid grid-cols-2 gap-x-[18rem] gap-3 list-disc">
                         {Contents3.map((content1) => <List content={content1} style="w-[20rem] text-[1.1rem]" key={content1} />)}

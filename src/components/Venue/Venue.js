@@ -15,6 +15,7 @@ function Venue() {
       <br></br>
       <div className="px-[6rem] mb-[3rem]">
         <p className="box-border flex flex-col block text-left my-[3rem]">
+          <span>CONVENTION CENTER,</span>
           <span>SRI KRISHNA COLLEGE OF ENGINEERING AND TECHNOLOGY, </span>
           <span>KUNIAMUTHUR,</span>
           <span>COIMBATORE - 641008,</span>
