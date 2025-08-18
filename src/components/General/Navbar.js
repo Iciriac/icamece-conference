@@ -6,7 +6,7 @@ function navbar(props) {
         props.onTabClicked(event.target.innerText);
     }
 
-    const tabs = ["Home", "About", "Call for Papers", "Committees", "Keynote", "Important Dates", "Submission", "Publication", "Registration", "Downloads", "Venue", "Contact"];
+    const tabs = ["Home", "About", "Call for Papers", "Committees", "Keynote", "Important Dates", "Submission", "Registration", "Downloads", "Venue", "Contact"];
 
     return (
         <div className="font-poppins bg-[#206dac] rounded-r-2xl w-[15%] h-screen flex flex-col snap-y items-center justify-center fixed top-0 left-0">
