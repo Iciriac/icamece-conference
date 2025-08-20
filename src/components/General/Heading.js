@@ -48,7 +48,7 @@ function Heading() {
                     </div>
                     {/* <p className="text-l font-medium tracking-[2px]">3<sup>rd</sup> edition of</p> */}
                     <h1 className="italic text-[1.4rem] font-semibold w-[50rem] tracking-[1px] mb-[.5rem]">International Conference on Advances in Mechanical, Electrical and Computational Engineering (ICAMECE 2025)</h1>
-                    <p className="font-medium tracking-[2px] ">12<sup>th</sup> Dec 2025</p>
+                    <p className="font-medium tracking-[2px] ">17<sup>th</sup> April 2026</p>
                 </div>
             </div>
         </div>
